@@ -2,10 +2,6 @@
 
 A simple habit tracker built with React and TypeScript. The application allows users to create and manage habits, track their daily progress, and maintain streaks.
 
-## Live Demo
-
-[Habit Tracker](https://habit-tracker-silk-beta.vercel.app/)
-
 ## Preview
 
 ![Habit Tracker](./public/habit-tracker-screenshot.jpg)
